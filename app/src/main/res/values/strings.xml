@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">bai1</string>
+    <string name="app_name">Quản lý khóa học</string>
+    <string name="all_categories">Tất cả danh mục</string>
 </resources>
