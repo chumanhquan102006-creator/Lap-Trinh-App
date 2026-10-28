@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AdMob Assignment Demo</string>
+    <string name="screen_one">Màn hình 1</string>
+    <string name="screen_two">Màn hình 2</string>
+    <string name="description_one">Nhấn nút chuyển trang để hiển thị quảng cáo xen kẽ khi đủ điều kiện.</string>
+    <string name="description_two">Đóng quảng cáo rồi mới chuyển trang. Banner vẫn ở phía dưới.</string>
+    <string name="go_two">Sang màn hình 2</string>
+    <string name="go_one">Về màn hình 1</string>
+    <string name="banner_caption">BANNER ADS  •  TEST</string>
+    <string name="ad_policy">Interstitial: tối đa 1 lần mỗi 3 phút</string>
+    <string name="initializing">Đang tải quảng cáo thử nghiệm…</string>
+</resources>
